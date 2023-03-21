@@ -122,7 +122,7 @@ const Post = () => {
                   fontSize: 14,
                   paddingVertical: 2,
                 }}>
-                If enjoy the video ! Please like and Subscribe :)
+                {/* If enjoy the video ! Please like and Subscribe :) */}
               </Text>
               <Text style={{opacity: 0.4, paddingVertical: 2}}>
                 View all comments
