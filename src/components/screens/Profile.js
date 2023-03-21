@@ -44,8 +44,8 @@ const Profile = () => {
     <View style={{width: '100%', height: '100%', backgroundColor: 'white'}}>
       <View style={{width: '100%', padding: 10}}>
         <ProfileBody
-          name="Mr Peobody"
-          accountName="mr_peobody"
+          name="Mr Oracle"
+          accountName="tha_Oracle"
           profileImage={require('../../storage/images/userProfile.png')}
           followers="3.6M"
           following="35"
@@ -53,8 +53,8 @@ const Profile = () => {
         />
         <ProfileButtons
           id={0}
-          name="Mr Peobody"
-          accountName="mr_peobody"
+          name="Mr Oracle"
+          accountName="tha_Oracle"
           profileImage={require('../../storage/images/userProfile.png')}
         />
       </View>
